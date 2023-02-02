@@ -1,4 +1,4 @@
-# Css_loading_page
+# 1.Css_loading_page
 ## netlify link 
 https://zesty-biscuit-6f430a.netlify.app
 ### screenshot
@@ -9,7 +9,7 @@ html,css_hover effect,transform,animation
 
 
 
-# 2 Gender Selection Page
+# 2.Gender Selection Page
 ##netlify link 
 https://cerulean-jalebi-2177d9.netlify.app
 ## Screenshot
