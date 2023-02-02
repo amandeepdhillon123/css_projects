@@ -9,7 +9,7 @@ html,css_hover effect,transform,animation
 
 
 
-#2 Gender Selection Page
+# 2 Gender Selection Page
 ##netlify link 
 https://cerulean-jalebi-2177d9.netlify.app
 ## Screenshot
