@@ -10,9 +10,21 @@ html,css_hover effect,transform,animation
 
 
 # 2.Gender Selection Page
-##netlify link 
+## netlify link 
 https://cerulean-jalebi-2177d9.netlify.app
 ## Screenshot
 ![2 gender](https://user-images.githubusercontent.com/99964863/216307538-751f34cb-454c-4a84-9a56-044a8212dd54.png)
 ### tool used
 html,css_animation,hover effect, transform
+
+
+
+# 3.Star Rating Page 
+## netlify link 
+https://rad-shortbread-d1cfe6.netlify.app
+## linkdin 
+https://www.linkedin.com/in/amandeep-dhillon-a86008243/
+![3 start rating ](https://user-images.githubusercontent.com/99964863/216746258-973052a3-74c3-42ad-ac3d-d7fc22113c3a.png)
+## tool
+Html,css_hove effect,flex box,position
+
