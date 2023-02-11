@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 10000px;
+}
+
+.Banner{
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           width: 100%;
+           height: 100vh;
+           overflow: hidden;
+}
+
+.Banner video{
+    position: absolute;
+    left: 0;
+    top: 0;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+
+}
+
+.Banner .content{
+    position: relative;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    text-align: center;
+ max-width: 1000px;
+ /* max-height: 100px; */
+    
+   
+}
+
+.Banner .content h1 {
+
+    margin: 0;
+    padding: 0;
+    font-size: 4.3em;
+    color: #fff;
+    text-transform: uppercase;
+    /* width: 1000px; */
+
+
+   
+
+}
+.Banner .content p {
+
+   
+    font-size: 1.3em;
+    /* color: #fff; */
+    /* text-transform: uppercase; */
+
+   
+
+}
